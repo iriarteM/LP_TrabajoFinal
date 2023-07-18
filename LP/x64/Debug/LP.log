@@ -1,0 +1,157 @@
+﻿  Matrices.cpp
+C:\Users\miria\OneDrive\Documentos\Universidad de Lima\2023 - 1\Lenguajes de Programación\Trabajo de Investigación\LP\Matrices.cpp(189,52): warning C4244: '=': conversión de 'float' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\miria\OneDrive\Documentos\Universidad de Lima\2023 - 1\Lenguajes de Programación\Trabajo de Investigación\LP\Matrices.cpp(218,97): warning C4244: 'argumento': conversión de '_Tp' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+C:\Users\miria\OneDrive\Documentos\Universidad de Lima\2023 - 1\Lenguajes de Programación\Trabajo de Investigación\LP\Matrices.cpp(218,77): warning C4244: 'argumento': conversión de '_Tp' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+C:\Users\miria\OneDrive\Documentos\Universidad de Lima\2023 - 1\Lenguajes de Programación\Trabajo de Investigación\LP\Matrices.cpp(218,57): warning C4244: 'argumento': conversión de '_Tp' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+C:\Users\miria\OneDrive\Documentos\Universidad de Lima\2023 - 1\Lenguajes de Programación\Trabajo de Investigación\LP\Matrices.cpp(240,58): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\miria\OneDrive\Documentos\Universidad de Lima\2023 - 1\Lenguajes de Programación\Trabajo de Investigación\LP\Matrices.cpp(274,97): warning C4244: 'argumento': conversión de '_Tp' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+C:\Users\miria\OneDrive\Documentos\Universidad de Lima\2023 - 1\Lenguajes de Programación\Trabajo de Investigación\LP\Matrices.cpp(274,77): warning C4244: 'argumento': conversión de '_Tp' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+C:\Users\miria\OneDrive\Documentos\Universidad de Lima\2023 - 1\Lenguajes de Programación\Trabajo de Investigación\LP\Matrices.cpp(274,57): warning C4244: 'argumento': conversión de '_Tp' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+C:\Users\miria\OneDrive\Documentos\Universidad de Lima\2023 - 1\Lenguajes de Programación\Trabajo de Investigación\LP\Matrices.cpp(298,58): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\miria\OneDrive\Documentos\Universidad de Lima\2023 - 1\Lenguajes de Programación\Trabajo de Investigación\LP\Matrices.cpp(325,45): warning C4244: '=': conversión de '_Ty' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\Users\miria\OneDrive\Documentos\Universidad de Lima\2023 - 1\Lenguajes de Programación\Trabajo de Investigación\LP\Matrices.cpp(326,37): warning C4244: '+=': conversión de '_Ty' a 'int'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\miria\OneDrive\Documentos\Universidad de Lima\2023 - 1\Lenguajes de Programación\Trabajo de Investigación\LP\Matrices.cpp(343,101): warning C4244: 'argumento': conversión de '_Tp' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+C:\Users\miria\OneDrive\Documentos\Universidad de Lima\2023 - 1\Lenguajes de Programación\Trabajo de Investigación\LP\Matrices.cpp(343,81): warning C4244: 'argumento': conversión de '_Tp' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+C:\Users\miria\OneDrive\Documentos\Universidad de Lima\2023 - 1\Lenguajes de Programación\Trabajo de Investigación\LP\Matrices.cpp(343,61): warning C4244: 'argumento': conversión de '_Tp' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+C:\Users\miria\OneDrive\Documentos\Universidad de Lima\2023 - 1\Lenguajes de Programación\Trabajo de Investigación\LP\Matrices.cpp(359,101): warning C4244: 'argumento': conversión de '_Tp' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+C:\Users\miria\OneDrive\Documentos\Universidad de Lima\2023 - 1\Lenguajes de Programación\Trabajo de Investigación\LP\Matrices.cpp(359,81): warning C4244: 'argumento': conversión de '_Tp' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+C:\Users\miria\OneDrive\Documentos\Universidad de Lima\2023 - 1\Lenguajes de Programación\Trabajo de Investigación\LP\Matrices.cpp(359,61): warning C4244: 'argumento': conversión de '_Tp' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+C:\Users\miria\OneDrive\Documentos\Universidad de Lima\2023 - 1\Lenguajes de Programación\Trabajo de Investigación\LP\Matrices.cpp(382,45): warning C4244: '=': conversión de '_Ty' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\Users\miria\OneDrive\Documentos\Universidad de Lima\2023 - 1\Lenguajes de Programación\Trabajo de Investigación\LP\Matrices.cpp(383,37): warning C4244: '+=': conversión de '_Ty' a 'int'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\miria\OneDrive\Documentos\Universidad de Lima\2023 - 1\Lenguajes de Programación\Trabajo de Investigación\LP\Matrices.cpp(397,52): warning C4244: '=': conversión de 'float' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\miria\OneDrive\Documentos\Universidad de Lima\2023 - 1\Lenguajes de Programación\Trabajo de Investigación\LP\Matrices.cpp(410,52): warning C4244: '=': conversión de 'float' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+  main.cpp
+  Generando código...
+  LP.vcxproj -> C:\Users\miria\OneDrive\Documentos\Universidad de Lima\2023 - 1\Lenguajes de Programación\Trabajo de Investigación\LP\x64\Debug\LP.exe
