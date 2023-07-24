@@ -1,1 +1,1 @@
-# LP_TrabajoFinal
+# Convolución de imágenes
